@@ -1,5 +1,4 @@
 ***🎵 Vibe Hub :--***
-
 An interactive and colorful audio experience where users can play a variety of instrument sounds at the click of a button. From drums to sitar, this musical playground brings traditional and modern sounds to life through a vibrant interface.
 
 ***✨ Features :--***
@@ -16,7 +15,7 @@ An interactive and colorful audio experience where users can play a variety of i
 - 🎨 **CSS3**
 - 💻 **HTML5**
 
-***🌐 Live Demo 🔗:--***
+***🌐 Live Demo 🔗 :--***
 👉 [**HEAR ME**](https://vibe-hub-five.vercel.app/) 👈
 
 ***🎧 Enjoy the vibes! ✨*** 
